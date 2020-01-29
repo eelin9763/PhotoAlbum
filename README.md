@@ -10,9 +10,11 @@ To access data:
 3. Paste the full path on the web browser's url.
 4. Open developer tools in browser (ctrl+shift+i).
 5. Click on console tab (in between elements and sources) and paste the following into console:
+```
 fetch('https://jsonplaceholder.typicode.com/photos')
         .then(response => response.json())
         .then(json => console.log(json))
+```
         
 6. 5000 titles, photoIDs, and IDs should be displayed, click on the arrows to expand and see every albumId, id, and title.
 
