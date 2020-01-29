@@ -1,5 +1,5 @@
 # Photoalbum
-Hello, this technical showcase is to display the title and photo ids in a photo album.  The photos are available at 
+Hello, this LT technical showcase is to display the title and photo ids in a photo album.  The photos are available at 
 "(https://jsonplaceholder.typicode.com/photos)."
 
 I used the fetch api to display json data in an html file.
