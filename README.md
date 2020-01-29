@@ -11,6 +11,7 @@ To access data:
 4. Paste the full path on the web browser's url.
 5. Open developer tools in browser (ctrl+shift+i).
 6. Click on console tab (in between elements and sources) and data should be displayed.  If not displayed:
+
 6a. Copy and paste the following into console:
 ```
 fetch('https://jsonplaceholder.typicode.com/photos')
