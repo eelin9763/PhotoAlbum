@@ -19,4 +19,4 @@ fetch('https://jsonplaceholder.typicode.com/photos')
         .then(json => console.log(json))
 ```
         
-7. 5000 titles, photoIDs, and IDs should be displayed, click on the arrows to expand and see every albumId, id, and title.
+7. An array of 5000 titles, photoIDs, and IDs should be displayed, click on the arrows to expand and see every albumId, id, and title.
